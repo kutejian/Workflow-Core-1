@@ -1,0 +1,13 @@
+C:\Users\30765\Desktop\新建文件夹 (2)\EDC.WorkflowCore.Sample\EDC.WorkflowCore.Sample.ConsolePortal\bin\Debug\netcoreapp2.2\EDC.WorkflowCore.Sample.ConsolePortal.deps.json
+C:\Users\30765\Desktop\新建文件夹 (2)\EDC.WorkflowCore.Sample\EDC.WorkflowCore.Sample.ConsolePortal\bin\Debug\netcoreapp2.2\EDC.WorkflowCore.Sample.ConsolePortal.runtimeconfig.json
+C:\Users\30765\Desktop\新建文件夹 (2)\EDC.WorkflowCore.Sample\EDC.WorkflowCore.Sample.ConsolePortal\bin\Debug\netcoreapp2.2\EDC.WorkflowCore.Sample.ConsolePortal.runtimeconfig.dev.json
+C:\Users\30765\Desktop\新建文件夹 (2)\EDC.WorkflowCore.Sample\EDC.WorkflowCore.Sample.ConsolePortal\bin\Debug\netcoreapp2.2\EDC.WorkflowCore.Sample.ConsolePortal.dll
+C:\Users\30765\Desktop\新建文件夹 (2)\EDC.WorkflowCore.Sample\EDC.WorkflowCore.Sample.ConsolePortal\bin\Debug\netcoreapp2.2\EDC.WorkflowCore.Sample.ConsolePortal.pdb
+C:\Users\30765\Desktop\新建文件夹 (2)\EDC.WorkflowCore.Sample\EDC.WorkflowCore.Sample.ConsolePortal\obj\Debug\netcoreapp2.2\EDC.WorkflowCore.Sample.ConsolePortal.csproj.AssemblyReference.cache
+C:\Users\30765\Desktop\新建文件夹 (2)\EDC.WorkflowCore.Sample\EDC.WorkflowCore.Sample.ConsolePortal\obj\Debug\netcoreapp2.2\EDC.WorkflowCore.Sample.ConsolePortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30765\Desktop\新建文件夹 (2)\EDC.WorkflowCore.Sample\EDC.WorkflowCore.Sample.ConsolePortal\obj\Debug\netcoreapp2.2\EDC.WorkflowCore.Sample.ConsolePortal.AssemblyInfoInputs.cache
+C:\Users\30765\Desktop\新建文件夹 (2)\EDC.WorkflowCore.Sample\EDC.WorkflowCore.Sample.ConsolePortal\obj\Debug\netcoreapp2.2\EDC.WorkflowCore.Sample.ConsolePortal.AssemblyInfo.cs
+C:\Users\30765\Desktop\新建文件夹 (2)\EDC.WorkflowCore.Sample\EDC.WorkflowCore.Sample.ConsolePortal\obj\Debug\netcoreapp2.2\EDC.WorkflowCore.Sample.ConsolePortal.csproj.CoreCompileInputs.cache
+C:\Users\30765\Desktop\新建文件夹 (2)\EDC.WorkflowCore.Sample\EDC.WorkflowCore.Sample.ConsolePortal\obj\Debug\netcoreapp2.2\EDC.WorkflowCore.Sample.ConsolePortal.dll
+C:\Users\30765\Desktop\新建文件夹 (2)\EDC.WorkflowCore.Sample\EDC.WorkflowCore.Sample.ConsolePortal\obj\Debug\netcoreapp2.2\EDC.WorkflowCore.Sample.ConsolePortal.pdb
+C:\Users\30765\Desktop\新建文件夹 (2)\EDC.WorkflowCore.Sample\EDC.WorkflowCore.Sample.ConsolePortal\obj\Debug\netcoreapp2.2\EDC.WorkflowCore.Sample.ConsolePortal.genruntimeconfig.cache
